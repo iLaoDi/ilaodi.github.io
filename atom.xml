@@ -6,7 +6,7 @@
   <link href="https://ilaodi.github.io/atom.xml" rel="self"/>
   
   <link href="https://ilaodi.github.io/"/>
-  <updated>2020-11-07T10:08:57.002Z</updated>
+  <updated>2020-11-07T10:14:06.118Z</updated>
   <id>https://ilaodi.github.io/</id>
   
   <author>
@@ -15,23 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>6pan小白羊</title>
-    <link href="https://ilaodi.github.io/uncategorized/6pan%E5%B0%8F%E7%99%BD%E7%BE%8A.html"/>
-    <id>https://ilaodi.github.io/uncategorized/6pan%E5%B0%8F%E7%99%BD%E7%BE%8A.html</id>
-    <published>2020-11-07T07:12:59.000Z</published>
-    <updated>2020-11-07T10:08:57.002Z</updated>
-    
-    <content type="html"><![CDATA[<p>简介:  </p><a id="more"></a><p>截图</p><p>项目地址</p><p>项目介绍</p><p>安装过程</p><p>使用说明</p>]]></content>
-    
-    
-    <summary type="html">&lt;p&gt;简介:  &lt;/p&gt;</summary>
-    
-    
-    
-    
-  </entry>
   
   <entry>
     <title>Linux 使用 Systemd 服务设置开机启动和守护进程</title>
