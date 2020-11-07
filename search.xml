@@ -116,8 +116,7 @@
 <h4 id="Python安装pip"><a href="#Python安装pip" class="headerlink" title="Python安装pip"></a>Python安装pip</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">sudo apt install python3-pip</span><br></pre></td></tr></table></figure>
 <p>或者<br><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">python3 &lt;(wget -qO- https:&#x2F;&#x2F;bootstrap.pypa.io&#x2F;get-pip.py)</span><br></pre></td></tr></table></figure></p>
 <p>教程参考:</p>
-<p><a href="https://pip.pypa.io/en/stable/installing/">https://pip.pypa.io/en/stable/installing/</a></p>
-<p><a href="https://github.com/MoeClub/apt/blob/master/build.md">https://github.com/MoeClub/apt/blob/master/build.md</a></p>
+<p><a href="https://pip.pypa.io/en/stable/installing/">https://pip.pypa.io/en/stable/installing/</a><br><a href="https://github.com/MoeClub/apt/blob/master/build.md">https://github.com/MoeClub/apt/blob/master/build.md</a></p>
 ]]></content>
   </entry>
 </search>
